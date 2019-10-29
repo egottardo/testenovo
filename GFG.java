@@ -4,6 +4,7 @@
 import java.io.*; 
 
 // abstract class 
+//arquivo alterado
 abstract class Shape 
 { 
 	// declare fields 
